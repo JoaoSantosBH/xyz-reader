@@ -1,0 +1,13 @@
+
+<resources>
+    <color name="photo_placeholder">#ccc</color>
+
+    <color name="color_primary">@color/midle</color>
+    <color name="color_primary_dark">@color/strong</color>
+    <color name="color_accent">@color/contrast</color>
+    <color name="ltgray">#ffe0e0e0</color>
+
+    <color name="strong">#56766E</color>
+    <color name="midle">#8FC3B6</color>
+    <color name="contrast">#ed5519</color>
+</resources>
